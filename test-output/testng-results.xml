@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-06T02:06:15 IST" name="Failed suite [Reg Suite]" finished-at="2020-07-06T02:06:15 IST" duration-ms="40">
+    <groups>
+    </groups>
+    <test started-at="2020-07-06T02:06:15 IST" name="Reg Test(failed)" finished-at="2020-07-06T02:06:15 IST" duration-ms="40">
+      <class name="com.mycompany.app.AppiumTest">
+        <test-method signature="random()[pri:0, instance:com.mycompany.app.AppiumTest@28eaa59a]" started-at="2020-07-06T02:06:15 IST" name="random" finished-at="2020-07-06T02:06:15 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- random -->
+      </class> <!-- com.mycompany.app.AppiumTest -->
+    </test> <!-- Reg Test(failed) -->
+  </suite> <!-- Failed suite [Reg Suite] -->
+</testng-results>
